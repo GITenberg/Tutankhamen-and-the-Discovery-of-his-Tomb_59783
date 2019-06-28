@@ -1,0 +1,24 @@
+_repo: Tutankhamen-and-the-Discovery-of-his-Tomb_59783
+_version: 0.0.1
+contributor:
+  adapter:
+    agent_name: Carnarvon, George Edward Stanhope Molyneux Herbert, Earl of
+    alias: Porchester, Lord
+    birthdate: 1866
+    deathdate: 1923
+    gutenberg_agent_id: '44771'
+    url: http://www.gutenberg.org/2009/agents/44771
+    wikipedia: https://en.wikipedia.org/wiki/George_Herbert,_5th_Earl_of_Carnarvon
+description: ''
+gutenberg_issued: '2019-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59783'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tutankhamen and the Discovery of his Tomb
+url: http://www.gutenberg.org/ebooks/59783
